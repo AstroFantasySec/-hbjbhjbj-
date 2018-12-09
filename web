@@ -1,0 +1,4 @@
+~$ git clone https://github.com/Stride-Destiny-Generation/Stride-Destiny-Generation.github.io
+~$ cd Stride-Destiny-Generation.github.io
+
+echo "Hello World" > index.html
